@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Imcprimeiroapp</string>
+    <string name="icmapp">string/Título Tela</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Subtitulo">Subtitulo</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="Digite_a_senha">Digite a senha</string>
+    <string name="minha_imagem">Minha Imagem</string>
+    <string name="bem_vindo_a_tela_principal">Bem vindo a tela principal</string>
+    <string name="pr_xima_tela">Próxima Tela</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="Tela_Login">Tela Login</string>
+
+</resources>
